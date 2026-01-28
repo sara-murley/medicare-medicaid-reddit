@@ -4,7 +4,9 @@ Topic modeling of Reddit posts to identify patterns in user experience with Medi
 ---
 
 ## Project Overview
-This project performs topic modeling and clustering analysis on Reddit posts from selected subreddits (`Medicare`, `Medicaid`, and `HealthInsurance`) to uncover common themes and patterns in user experiences. An interactive dashboard summarizes the findings and allows exploration of key topics and associated terms.
+This project performs topic modeling and clustering analysis on Reddit posts from selected subreddits (`Medicare` and `Medicaid`) to uncover common themes and patterns in user experiences. An interactive dashboard summarizes the findings and allows exploration of key topics and associated terms.
+
+This project was created as part of a class assignment at Georgetown University. 
 
 **Interactive Dashboard:** [View Dashboard](https://smurley3.shinyapps.io/final_proj/)
 
@@ -28,7 +30,7 @@ project_root/
 │
 ├── figures/ # Generated plots and visualizations from EDA and clustering
 │
-└── medicare_medicaid_insight_report.pdf # Final project report
+└── medicare_medicaid_topic_modeling.pdf # Final project report
 ```
 
 ## Notebook Descriptions
